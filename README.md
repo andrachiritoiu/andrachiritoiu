@@ -1,14 +1,3 @@
-
-
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=andrachiritoiu&show_icons=true&theme=tokyonight" />
-  <img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrachiritoiu&layout=compact&theme=tokyonight" />
+  <img src="https://metrics.lecoq.io/andrachiritoiu?template=classic&base.header=0&base.activity=1&base.community=1&base.repositories=1&base.metadata=1&config.timezone=Europe%2FBucharest" alt="Metrics" />
 </p>
-
-
-
-
-
-
-
-
