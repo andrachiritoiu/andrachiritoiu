@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="https://metrics.lecoq.io/andrachiritoiu?template=classic&base.header=0&base.activity=1&base.community=1&base.repositories=1&base.metadata=1&config.timezone=Europe%2FBucharest" alt="Metrics" />
+  <img src="https://github-readme-stats.vercel.app/api?username=andrachiritoiu&show_icons=true&theme=tokyonight" alt="Stats" />
 </p>
